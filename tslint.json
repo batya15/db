@@ -87,7 +87,7 @@
       true,
       "element",
       [
-        "kpi",
+        "db",
         "app"
       ],
       "kebab-case"
@@ -99,7 +99,7 @@
       true,
       "attribute",
       [
-        "kpi",
+        "db",
         "app"
       ],
       "camelCase"
